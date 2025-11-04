@@ -1,0 +1,31 @@
+CRITICAL - 2025-04-12 10:48:21 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Sekolah.php on line 122.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Sekolah/Input')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Sekolah/Input')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Sekolah/Input')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-12 10:48:37 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Sekolah.php on line 122.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Sekolah/Input')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Sekolah/Input')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Sekolah/Input')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-12 11:27:08 --> Undefined array key "jenjang"
+in APPPATH\Views\sekolah\v_index.php on line 65.
+ 1 APPPATH\Views\sekolah\v_index.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jenjang"', 'APPPATH\\Views\\sekolah\\v_index.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\sekolah\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_index', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(219): view('sekolah/v_index')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(29): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->index()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

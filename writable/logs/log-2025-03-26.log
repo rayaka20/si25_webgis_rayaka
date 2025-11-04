@@ -1,0 +1,158 @@
+CRITICAL - 2025-03-26 10:17:57 --> Class "App\Models\ModelWilayah" not found
+in APPPATH\Controllers\Wilayah.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 10:18:04 --> Class "App\Models\ModelWilayah" not found
+in APPPATH\Controllers\Wilayah.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\wilayah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 10:22:33 --> Invalid file: wilayah/v_index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('wilayah/v_index.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(188): view('wilayah/v_index')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\Wilayah.php(21): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\wilayah->index()
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\wilayah))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 10:44:29 --> Creation of dynamic property App\Controllers\wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 12.
+ 1 APPPATH\Controllers\Wilayah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 10:44:59 --> Creation of dynamic property App\Controllers\wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 12.
+ 1 APPPATH\Controllers\Wilayah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 10:45:38 --> Creation of dynamic property App\Controllers\wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 12.
+ 1 APPPATH\Controllers\Wilayah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 10:48:56 --> Creation of dynamic property App\Controllers\wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 12.
+ 1 APPPATH\Controllers\Wilayah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 10:59:01 --> Unclosed '{' on line 27
+in APPPATH\Views\wilayah\v_index.php on line 57.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(216): view('wilayah/v_index')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\Wilayah.php(22): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\wilayah->index()
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\wilayah))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 11:00:11 --> Unclosed '{' on line 27
+in APPPATH\Views\wilayah\v_index.php on line 57.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(216): view('wilayah/v_index')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\Wilayah.php(22): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\wilayah->index()
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\wilayah))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 11:01:18 --> Creation of dynamic property App\Controllers\wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 12.
+ 1 APPPATH\Controllers\Wilayah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 11:06:51 --> Cannot access offset of type string on string
+in APPPATH\Views\wilayah\v_index.php on line 30.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 4 APPPATH\Views\v_template_back_end.php(216): view('wilayah/v_index')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 8 APPPATH\Controllers\Wilayah.php(22): view('v_template_back_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\wilayah->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\wilayah))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 11:23:38 --> Undefined variable $web
+in APPPATH\Views\wilayah\v_index.php on line 78.
+ 1 APPPATH\Views\wilayah\v_index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $web', 'APPPATH\\Views\\wilayah\\v_index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\wilayah\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(216): view('wilayah/v_index')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Wilayah.php(22): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\wilayah->index()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\wilayah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 11:33:48 --> Unclosed '{' on line 92
+in APPPATH\Views\wilayah\v_index.php on line 114.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(216): view('wilayah/v_index')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\Wilayah.php(25): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\wilayah->index()
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\wilayah))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 12:02:07 --> Call to undefined function from_close()
+in APPPATH\Views\wilayah\v_input.php on line 14.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_input', [], true)
+ 4 APPPATH\Views\v_template_back_end.php(216): view('wilayah/v_input')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 8 APPPATH\Controllers\Wilayah.php(34): view('v_template_back_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\wilayah->Input()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\wilayah))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 23:08:43 --> syntax error, unexpected token "return"
+in APPPATH\Controllers\Wilayah.php on line 70.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Wilayah/Input')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Wilayah/Input')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Wilayah/Input')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-26 23:10:24 --> syntax error, unexpected token "return"
+in APPPATH\Controllers\Wilayah.php on line 70.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Wilayah/Input')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Wilayah/Input')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Wilayah/Input')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

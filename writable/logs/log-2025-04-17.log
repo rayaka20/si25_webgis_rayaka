@@ -1,0 +1,221 @@
+CRITICAL - 2025-04-17 10:59:02 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 11:10:42 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 11:19:54 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 11:22:23 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 11:23:55 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 11:25:15 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:26:12 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:27:57 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:28:00 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:28:09 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:28:19 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:30:04 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:38:38 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:39:15 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:40:04 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:43:51 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:48:21 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 12:56:59 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 13:01:24 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 13:02:54 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 13:06:52 --> Class "App\Models\BaseController" not found
+in APPPATH\Controllers\Auth.php on line 7.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 3 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 5 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 14:14:46 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\Auth.php on line 49.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 14:14:50 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\Auth.php on line 49.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 14:27:08 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\Auth.php on line 48.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-17 23:23:50 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\Auth.php on line 48.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Auth/Login')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Auth/Login')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Auth/Login')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

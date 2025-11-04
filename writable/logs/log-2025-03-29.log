@@ -1,0 +1,13 @@
+CRITICAL - 2025-03-29 08:13:54 --> Call to undefined function App\Controllers\DeleteData()
+in APPPATH\Controllers\Wilayah.php on line 135.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\wilayah->Delete('12')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\wilayah))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-03-29 08:56:16 --> Undefined property: App\Controllers\User::$ModelWilayah
+in APPPATH\Controllers\User.php on line 15.
+ 1 APPPATH\Controllers\User.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\User::$ModelWilayah', 'APPPATH\\Controllers\\User.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

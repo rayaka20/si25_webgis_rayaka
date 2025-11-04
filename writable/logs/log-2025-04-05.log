@@ -1,0 +1,8 @@
+CRITICAL - 2025-04-05 02:58:26 --> Undefined variable $id_kabupaten
+in APPPATH\Models\ModelSekolah.php on line 59.
+ 1 APPPATH\Models\ModelSekolah.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_kabupaten', 'APPPATH\\Models\\ModelSekolah.php', 59)
+ 2 APPPATH\Controllers\Sekolah.php(56): App\Models\ModelSekolah->allKecamatan('1208')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Kecamatan()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

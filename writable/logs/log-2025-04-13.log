@@ -1,0 +1,173 @@
+CRITICAL - 2025-04-13 01:35:46 --> Invalid file: sekolah/v_edit.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sekolah/v_edit.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_edit', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(219): view('sekolah/v_edit')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\Sekolah.php(166): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Edit('2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 01:37:58 --> Undefined variable $id_sekolah
+in APPPATH\Models\ModelSekolah.php on line 24.
+ 1 APPPATH\Models\ModelSekolah.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_sekolah', 'APPPATH\\Models\\ModelSekolah.php', 24)
+ 2 APPPATH\Controllers\Sekolah.php(165): App\Models\ModelSekolah->DetailData('2')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Edit('2')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:12:37 --> Undefined array key "nama_provinsi"
+in APPPATH\Views\sekolah\v_edit.php on line 114.
+ 1 APPPATH\Views\sekolah\v_edit.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_provinsi"', 'APPPATH\\Views\\sekolah\\v_edit.php', 114)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\sekolah\\v_edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_edit', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(219): view('sekolah/v_edit')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(167): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Edit('1')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:42:53 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:44:25 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:44:27 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:44:28 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 12.
+ 1 APPPATH\Controllers\Admin.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:56:07 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:56:33 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:56:38 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:56:39 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:56:40 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 12.
+ 1 APPPATH\Controllers\Admin.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:56:43 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 12.
+ 1 APPPATH\Controllers\Admin.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 02:57:20 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 12.
+ 1 APPPATH\Controllers\Admin.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 08:42:27 --> Undefined array key "gambar"
+in APPPATH\Views\sekolah\v_detail.php on line 15.
+ 1 APPPATH\Views\sekolah\v_detail.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gambar"', 'APPPATH\\Views\\sekolah\\v_detail.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\sekolah\\v_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_detail', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(219): view('sekolah/v_detail')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(310): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Detail('7')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 09:00:02 --> Undefined array key "nama_provinsi"
+in APPPATH\Views\sekolah\v_detail.php on line 43.
+ 1 APPPATH\Views\sekolah\v_detail.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_provinsi"', 'APPPATH\\Views\\sekolah\\v_detail.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\sekolah\\v_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_detail', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(219): view('sekolah/v_detail')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(310): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Detail('2')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 09:00:08 --> Undefined array key "nama_provinsi"
+in APPPATH\Views\sekolah\v_detail.php on line 43.
+ 1 APPPATH\Views\sekolah\v_detail.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_provinsi"', 'APPPATH\\Views\\sekolah\\v_detail.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\sekolah\\v_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_detail', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(219): view('sekolah/v_detail')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(310): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Detail('2')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-13 09:49:06 --> Undefined array key "passsword"
+in APPPATH\Views\user\v_index.php on line 62.
+ 1 APPPATH\Views\user\v_index.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "passsword"', 'APPPATH\\Views\\user\\v_index.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('user/v_index', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(219): view('user/v_index')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\User.php(24): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->index()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

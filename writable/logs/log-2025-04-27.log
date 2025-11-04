@@ -1,0 +1,8 @@
+CRITICAL - 2025-04-27 07:15:29 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Controllers\Wilayah.php on line 91.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Wilayah')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Wilayah')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Wilayah')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

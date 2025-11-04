@@ -1,0 +1,670 @@
+CRITICAL - 2025-05-16 00:35:53 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:35:56 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:36:10 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:36:12 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:37:15 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 14.
+ 1 APPPATH\Controllers\Admin.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:41:18 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:41:22 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:42:27 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:44:05 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:44:07 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 63.
+ 1 APPPATH\Controllers\Admin.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:47:49 --> Undefined property: App\Controllers\Admin::$ModelWilayah
+in APPPATH\Controllers\Admin.php on line 65.
+ 1 APPPATH\Controllers\Admin.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelWilayah', 'APPPATH\\Controllers\\Admin.php', 65)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:48:36 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Admin.php(72): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:48:38 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Admin.php(72): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('2')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:48:42 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Admin.php(72): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:48:44 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Admin.php(72): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:49:43 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:49:45 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 00:50:08 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 15.
+ 1 APPPATH\Controllers\Admin.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:02:28 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(325): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:02:44 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(325): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:16:19 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(44): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:17:32 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:18:18 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:18:28 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(59): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:35:08 --> Cannot redeclare App\Controllers\Sekolah::index()
+in APPPATH\Controllers\Sekolah.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-05-16 01:35:46 --> Cannot redeclare App\Controllers\Sekolah::index()
+in APPPATH\Controllers\Sekolah.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-05-16 01:36:09 --> Cannot redeclare App\Controllers\Sekolah::index()
+in APPPATH\Controllers\Sekolah.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-05-16 01:36:33 --> Cannot redeclare App\Controllers\Sekolah::index()
+in APPPATH\Controllers\Sekolah.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-05-16 01:49:57 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(44): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:56:08 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(42): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:56:11 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(42): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:56:13 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(42): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('2')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:56:54 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(42): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:57:08 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:58:51 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 01:58:53 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:07:55 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:08:11 --> Undefined variable $menu
+in APPPATH\Views\v_template_back_end.php on line 130.
+ 1 APPPATH\Views\v_template_back_end.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'APPPATH\\Views\\v_template_back_end.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 5 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-05-16 02:17:43 --> mysqli_sql_exception: Table 'db-gis-sekolah-ci4.sekolah' doesn't exist in C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gis-sekolah-ci4\app\Models\ModelSekolah.php(36): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Sekolah.php(38): App\Models\ModelSekolah->getSekolahByJenjang('1')
+#6 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+#7 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+#8 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gis-sekolah-ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-05-16 02:17:43 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\ModelSekolah.php on line 37.
+ 1 APPPATH\Controllers\Sekolah.php(38): App\Models\ModelSekolah->getSekolahByJenjang('1')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-05-16 02:17:50 --> mysqli_sql_exception: Table 'db-gis-sekolah-ci4.sekolah' doesn't exist in C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gis-sekolah-ci4\app\Models\ModelSekolah.php(36): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Sekolah.php(38): App\Models\ModelSekolah->getSekolahByJenjang('1')
+#6 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+#7 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+#8 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gis-sekolah-ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-05-16 02:17:50 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\ModelSekolah.php on line 37.
+ 1 APPPATH\Controllers\Sekolah.php(38): App\Models\ModelSekolah->getSekolahByJenjang('1')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-05-16 02:18:20 --> mysqli_sql_exception: Table 'db-gis-sekolah-ci4.sekolah' doesn't exist in C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gis-sekolah-ci4\app\Models\ModelSekolah.php(36): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Sekolah.php(38): App\Models\ModelSekolah->getSekolahByJenjang('1')
+#6 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+#7 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+#8 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gis-sekolah-ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-05-16 02:18:20 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\ModelSekolah.php on line 37.
+ 1 APPPATH\Controllers\Sekolah.php(38): App\Models\ModelSekolah->getSekolahByJenjang('1')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:20:51 --> Invalid file: sekolah/v_jenjang.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sekolah/v_jenjang.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_jenjang', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(217): view('sekolah/v_jenjang')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:20:53 --> Invalid file: sekolah/v_jenjang.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sekolah/v_jenjang.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_jenjang', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(217): view('sekolah/v_jenjang')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:32:12 --> Undefined variable $data
+in APPPATH\Controllers\Sekolah.php on line 35.
+ 1 APPPATH\Controllers\Sekolah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Sekolah.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:34:48 --> Undefined variable $data
+in APPPATH\Controllers\Sekolah.php on line 35.
+ 1 APPPATH\Controllers\Sekolah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Sekolah.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:34:51 --> Undefined variable $data
+in APPPATH\Controllers\Sekolah.php on line 35.
+ 1 APPPATH\Controllers\Sekolah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Sekolah.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:36:29 --> Undefined variable $data
+in APPPATH\Controllers\Sekolah.php on line 35.
+ 1 APPPATH\Controllers\Sekolah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Sekolah.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:36:34 --> Undefined variable $data
+in APPPATH\Controllers\Sekolah.php on line 35.
+ 1 APPPATH\Controllers\Sekolah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Sekolah.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:37:28 --> Undefined variable $dj
+in APPPATH\Controllers\Sekolah.php on line 35.
+ 1 APPPATH\Controllers\Sekolah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dj', 'APPPATH\\Controllers\\Sekolah.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:37:32 --> Undefined variable $dj
+in APPPATH\Controllers\Sekolah.php on line 35.
+ 1 APPPATH\Controllers\Sekolah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dj', 'APPPATH\\Controllers\\Sekolah.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:39:35 --> Undefined variable $dj
+in APPPATH\Controllers\Sekolah.php on line 35.
+ 1 APPPATH\Controllers\Sekolah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dj', 'APPPATH\\Controllers\\Sekolah.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:00 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:01 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:01 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:01 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:02 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:02 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:02 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:02 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:02 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:20 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(41): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:20 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(41): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:21 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(41): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:44:51 --> Invalid file: nama_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nama_view.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('nama_view', [], true)
+ 3 APPPATH\Controllers\Sekolah.php(42): view('nama_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:45:22 --> Undefined variable $web
+in APPPATH\Views\v_sekolah_per_jenjang.php on line 32.
+ 1 APPPATH\Views\v_sekolah_per_jenjang.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $web', 'APPPATH\\Views\\v_sekolah_per_jenjang.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_sekolah_per_jenjang.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_sekolah_per_jenjang', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(217): view('v_sekolah_per_jenjang')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:45:25 --> Undefined variable $web
+in APPPATH\Views\v_sekolah_per_jenjang.php on line 32.
+ 1 APPPATH\Views\v_sekolah_per_jenjang.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $web', 'APPPATH\\Views\\v_sekolah_per_jenjang.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_sekolah_per_jenjang.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_sekolah_per_jenjang', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(217): view('v_sekolah_per_jenjang')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:45:48 --> Undefined variable $web
+in APPPATH\Views\v_sekolah_per_jenjang.php on line 32.
+ 1 APPPATH\Views\v_sekolah_per_jenjang.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $web', 'APPPATH\\Views\\v_sekolah_per_jenjang.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_sekolah_per_jenjang.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_sekolah_per_jenjang', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(217): view('v_sekolah_per_jenjang')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:45:52 --> Undefined variable $web
+in APPPATH\Views\v_sekolah_per_jenjang.php on line 32.
+ 1 APPPATH\Views\v_sekolah_per_jenjang.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $web', 'APPPATH\\Views\\v_sekolah_per_jenjang.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_sekolah_per_jenjang.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_sekolah_per_jenjang', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(217): view('v_sekolah_per_jenjang')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:46:06 --> Creation of dynamic property App\Controllers\Sekolah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 APPPATH\Controllers\Sekolah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Sekolah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Sekolah.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:46:23 --> Undefined variable $web
+in APPPATH\Views\v_sekolah_per_jenjang.php on line 32.
+ 1 APPPATH\Views\v_sekolah_per_jenjang.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $web', 'APPPATH\\Views\\v_sekolah_per_jenjang.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_sekolah_per_jenjang.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_sekolah_per_jenjang', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(217): view('v_sekolah_per_jenjang')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('1')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-05-16 02:46:32 --> Undefined variable $web
+in APPPATH\Views\v_sekolah_per_jenjang.php on line 32.
+ 1 APPPATH\Views\v_sekolah_per_jenjang.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $web', 'APPPATH\\Views\\v_sekolah_per_jenjang.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_sekolah_per_jenjang.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_sekolah_per_jenjang', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(217): view('v_sekolah_per_jenjang')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(41): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->Jenjang('2')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

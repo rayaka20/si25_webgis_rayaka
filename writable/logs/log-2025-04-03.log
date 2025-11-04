@@ -1,0 +1,15 @@
+CRITICAL - 2025-04-03 21:47:38 --> Undefined array key "coordinat"
+in APPPATH\Views\v_home.php on line 38.
+ 1 APPPATH\Views\v_home.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "coordinat"', 'APPPATH\\Views\\v_home.php', 38)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_home', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(161): view('v_home')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(21): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,21 @@
+CRITICAL - 2025-04-04 08:33:24 --> Class "App\Controllers\ModelSekolah" not found
+in APPPATH\Controllers\Sekolah.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Sekolah->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-04 08:34:05 --> Undefined variable $wilayah
+in APPPATH\Views\sekolah\v_index.php on line 55.
+ 1 APPPATH\Views\sekolah\v_index.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $wilayah', 'APPPATH\\Views\\sekolah\\v_index.php', 55)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\sekolah\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('sekolah/v_index', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(214): view('sekolah/v_index')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Sekolah.php(27): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Sekolah->index()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

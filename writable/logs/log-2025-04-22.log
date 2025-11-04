@@ -1,0 +1,189 @@
+ERROR - 2025-04-22 07:52:17 --> mysqli_sql_exception: Unknown column 'id_wilayah.id_jenjang' in 'where clause' in C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gis-sekolah-ci4\app\Models\ModelSekolah.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('2')
+#6 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(902): App\Controllers\Home->Jenjang('2')
+#7 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gis-sekolah-ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-04-22 07:52:17 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\ModelSekolah.php on line 29.
+ 1 APPPATH\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('2')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-04-22 07:54:13 --> mysqli_sql_exception: Unknown column 'id_wilayah.id_jenjang' in 'where clause' in C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gis-sekolah-ci4\app\Models\ModelSekolah.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('2')
+#6 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(902): App\Controllers\Home->Jenjang('2')
+#7 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gis-sekolah-ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-04-22 07:54:13 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\ModelSekolah.php on line 29.
+ 1 APPPATH\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('2')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-04-22 07:54:35 --> mysqli_sql_exception: Unknown column 'id_wilayah.id_jenjang' in 'where clause' in C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gis-sekolah-ci4\app\Models\ModelSekolah.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('2')
+#6 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(902): App\Controllers\Home->Jenjang('2')
+#7 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gis-sekolah-ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-04-22 07:54:35 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\ModelSekolah.php on line 29.
+ 1 APPPATH\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('2')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-04-22 07:55:12 --> mysqli_sql_exception: Unknown column 'id_wilayah.id_jenjang' in 'where clause' in C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gis-sekolah-ci4\app\Models\ModelSekolah.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('1')
+#6 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(902): App\Controllers\Home->Jenjang('1')
+#7 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gis-sekolah-ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-04-22 07:55:12 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\ModelSekolah.php on line 29.
+ 1 APPPATH\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('1')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-04-22 07:57:24 --> mysqli_sql_exception: Unknown column 'id_wilayah.id_jenjang' in 'where clause' in C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\gis-sekolah-ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gis-sekolah-ci4\app\Models\ModelSekolah.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('4')
+#6 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(902): App\Controllers\Home->Jenjang('4')
+#7 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\gis-sekolah-ci4\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gis-sekolah-ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-04-22 07:57:24 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\ModelSekolah.php on line 29.
+ 1 APPPATH\Controllers\Home.php(56): App\Models\ModelSekolah->AllDataPerJenjang('4')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('4')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 07:57:42 --> Creation of dynamic property App\Controllers\Home::$ModelSetting is deprecated
+in APPPATH\Controllers\Home.php on line 14.
+ 1 APPPATH\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Home::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Home.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 09:13:49 --> Too few arguments to function App\Models\ModelWilayah::DetailData(), 0 passed in C:\xampp\htdocs\gis-sekolah-ci4\app\Controllers\Home.php on line 35 and exactly 1 expected
+in APPPATH\Models\ModelWilayah.php on line 20.
+ 1 APPPATH\Controllers\Home.php(35): App\Models\ModelWilayah->DetailData()
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Wilayah('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 09:16:21 --> Undefined variable $id_jenjang
+in APPPATH\Models\ModelJenjang.php on line 23.
+ 1 APPPATH\Models\ModelJenjang.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_jenjang', 'APPPATH\\Models\\ModelJenjang.php', 23)
+ 2 APPPATH\Controllers\Home.php(51): App\Models\ModelJenjang->DetailData('1')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 09:16:57 --> Undefined variable $id_jenjang
+in APPPATH\Models\ModelJenjang.php on line 23.
+ 1 APPPATH\Models\ModelJenjang.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_jenjang', 'APPPATH\\Models\\ModelJenjang.php', 23)
+ 2 APPPATH\Controllers\Home.php(51): App\Models\ModelJenjang->DetailData('2')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('2')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 09:19:17 --> Undefined variable $id_jenjang
+in APPPATH\Models\ModelJenjang.php on line 23.
+ 1 APPPATH\Models\ModelJenjang.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_jenjang', 'APPPATH\\Models\\ModelJenjang.php', 23)
+ 2 APPPATH\Controllers\Home.php(51): App\Models\ModelJenjang->DetailData('1')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 09:19:30 --> Creation of dynamic property App\Controllers\Home::$ModelSetting is deprecated
+in APPPATH\Controllers\Home.php on line 14.
+ 1 APPPATH\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Home::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Home.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 09:20:42 --> Undefined variable $id_jenjang
+in APPPATH\Models\ModelJenjang.php on line 23.
+ 1 APPPATH\Models\ModelJenjang.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_jenjang', 'APPPATH\\Models\\ModelJenjang.php', 23)
+ 2 APPPATH\Controllers\Home.php(51): App\Models\ModelJenjang->DetailData('1')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 09:20:47 --> Undefined variable $id_jenjang
+in APPPATH\Models\ModelJenjang.php on line 23.
+ 1 APPPATH\Models\ModelJenjang.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_jenjang', 'APPPATH\\Models\\ModelJenjang.php', 23)
+ 2 APPPATH\Controllers\Home.php(51): App\Models\ModelJenjang->DetailData('2')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->Jenjang('2')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 10:21:39 --> Creation of dynamic property App\Controllers\User::$ModelUser is deprecated
+in APPPATH\Controllers\User.php on line 12.
+ 1 APPPATH\Controllers\User.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\User::$ModelUser is deprecated', 'APPPATH\\Controllers\\User.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\User->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 10:32:05 --> Undefined variable $id_user
+in APPPATH\Controllers\User.php on line 96.
+ 1 APPPATH\Controllers\User.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_user', 'APPPATH\\Controllers\\User.php', 96)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Edit('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 11:46:11 --> Creation of dynamic property App\Controllers\User::$ModelUser is deprecated
+in APPPATH\Controllers\User.php on line 12.
+ 1 APPPATH\Controllers\User.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\User::$ModelUser is deprecated', 'APPPATH\\Controllers\\User.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\User->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-04-22 11:50:16 --> Creation of dynamic property App\Controllers\User::$ModelUser is deprecated
+in APPPATH\Controllers\User.php on line 12.
+ 1 APPPATH\Controllers\User.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\User::$ModelUser is deprecated', 'APPPATH\\Controllers\\User.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\User->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
